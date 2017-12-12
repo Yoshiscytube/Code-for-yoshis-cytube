@@ -2,5 +2,5 @@
 font-family: 'Garfield';
 font-style: normal;
 font-weight: normal;
-src: local('Garfield'), url('Garfield.woff') format('woff');
+src: local('Garfield'), url('https://github.com/Yoshiscytube/Code-for-yoshis-cytube/raw/master/Garfield.woff') format('woff');
 }
